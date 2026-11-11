@@ -224,3 +224,8 @@ data/*
 data/
 
 yolov5/*
+
+artifacts/*
+artifacts/
+
+data.zip
