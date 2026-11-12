@@ -5,14 +5,8 @@ from flask import Flask, request, jsonify, render_template, Response
 from flask_cors import CORS, cross_origin
 
 from wasteDetection.pipeline.training_pipeline import TrainPipeline
-from wasteDetection.utils.main_utils import (
-    decodeImage,
-    encodeImageIntoBase64
-)
-from wasteDetection.constant.application import (
-    APP_HOST,
-    APP_PORT
-)
+from wasteDetection.utils.main_utils import (decodeImage, encodeImageIntoBase64)
+from wasteDetection.constant.application import (APP_HOST, APP_PORT)
 
 app = Flask(__name__)
 CORS(app)
@@ -90,9 +84,7 @@ def predictRoute():
                 }
             )
 
-        opencodedbase64 = encodeImageIntoBase64(
-            output_image_path
-        )
+        opencodedbase64 = encodeImageIntoBase64(output_image_path)
 
         result = {
             "image": opencodedbase64.decode(
