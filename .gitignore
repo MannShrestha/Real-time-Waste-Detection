@@ -223,7 +223,7 @@ __marimo__/
 data/*
 data/
 
-yolov5/*
+# yolov5/*
 
 artifacts/*
 artifacts/
