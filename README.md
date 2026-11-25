@@ -2,6 +2,10 @@
 
 # Real-time-Waste-Detection
 
+# Project Demo
+
+![Waste Detection Demo](https://youtu.be/WJkP0L_Gfo8)
+
 ## ♻️ Real-Time Waste Detection
 
 ## Overview

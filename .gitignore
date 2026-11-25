@@ -233,4 +233,9 @@ data.zip
 train
 valid
 
+outputs/*
 flowcharts/*
+uploads/*
+videos/*
+"Images/waste.gif" 
+
