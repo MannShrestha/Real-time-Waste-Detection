@@ -4,7 +4,7 @@
 
 # Project Demo
 
-![Waste Detection Dashboard]()
+![Waste Detection Dashboard](https://raw.githubusercontent.com/MannShrestha/Branching-Data/main/detect-w.gif)
 
 ## ♻️ Real-Time Waste Detection
 
