@@ -4,7 +4,7 @@
 
 # Project Demo
 
-![Waste Detection Demo](https://youtu.be/WJkP0L_Gfo8)
+[[!Waste Detection Dashboard](https://img.youtube.com/vi/WJkP0L_Gfo8/hqdefault.jpg)](https://youtu.be/WJkP0L_Gfo8)
 
 ## ♻️ Real-Time Waste Detection
 
